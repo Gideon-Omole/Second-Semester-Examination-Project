@@ -86,6 +86,10 @@
    ```
    ![Move Files](./images/home%20dir%20to%20var%20dir.png)  
 
+3. Bought a Custom domain from Namecheap and added A records
+
+   ![Move Files](./images/custom%20domain.png)  
+
 ### SSL with Certbot:
 1. Installed Certbot:  
    ```bash
